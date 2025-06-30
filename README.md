@@ -63,9 +63,6 @@ All documentation can be found in the [`/docs`](./docs) folder:
 
 ![image](https://github.com/user-attachments/assets/6784a146-31c3-4556-bdc2-eeeb23b293cc)
 
-
-![5G Core Network with Framed Routing](docs/network_diagram.png)
-
 ![image](https://github.com/user-attachments/assets/5f765fb4-9da1-4bba-b047-ae6a0173857b)
 
 
