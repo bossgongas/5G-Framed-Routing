@@ -55,6 +55,8 @@ All documentation can be found in the [`/docs`](./docs) folder:
 
 ## 🖼️ System Diagram
 
+![image](https://github.com/user-attachments/assets/bb83b717-c3ad-4b37-89b0-b59f798393b6)
+
 ![image](https://github.com/user-attachments/assets/aa49a695-c191-497b-a106-58efd0fa3498)
 
 ![5G Core Network with Framed Routing](docs/network_diagram.png)
