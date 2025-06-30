@@ -5,7 +5,7 @@
 > 🏫 **University of Coimbra** – DEEC  
 > 🧠 **Course:** Projeto II (2022/2023)  
 > 🤝 **In partnership with:** Altice Labs  
-> 👨‍💻 **Authors:** Gonçalo Bastos (2020238997), Leonardo Cordeiro (2020228071)  
+> 👨‍💻 **Authors:** Gonçalo Bastos, Leonardo Cordeiro  
 > 👩‍🏫 **Supervisor:** Prof. Maria Medeiros  
 > 🧑‍💼 **Industry Mentors:** Eng. Francisco Fontes, Eng. Miguel Freitas
 
